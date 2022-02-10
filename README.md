@@ -34,3 +34,6 @@ Apply changes to Azure cloud.
 # Documentation for .tf files
 
 ## provider + rg.tf
+* [Terraform](https://www.terraform.io)
+* [Azure subscription](https://azure.microsoft.com/en-us/free)
+* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
